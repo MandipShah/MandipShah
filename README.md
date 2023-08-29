@@ -5,16 +5,16 @@
 ###
 
 <div align="center">
-  <a href="facebook.com/mand1pshah" target="_blank">
+  <a href="https://facebook.com/mand1pshah" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
-  <a href="instagram.com/mand1pshah" target="_blank">
+  <a href="https://instagram.com/mand1pshah" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="x.com/mand1pshah" target="_blank">
+  <a href="https://x.com/mand1pshah" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="wa.me/+9779811209589" target="_blank">
+  <a href="https://wa.me/+9779811209589" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
 </div>
